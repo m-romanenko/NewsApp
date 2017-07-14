@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="li_marginB">24dp</dimen>
+    <dimen name="section_txt_size">14sp</dimen>
+    <dimen name="title_txt_size">18sp</dimen>
+    <dimen name="padding_normal">16dp</dimen>
+    <dimen name="divider_height">1px</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="list_side_margin">16dp</dimen>
+</resources>
